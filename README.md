@@ -1,4 +1,4 @@
-# core-ui
+# Paladin dashboard
 
 > Open Source Admin Template
 
